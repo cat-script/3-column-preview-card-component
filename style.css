@@ -65,6 +65,7 @@ p {
   border: 3px solid var(--light-gray);
   padding: 1em 2em;
   margin-top: 1.5rem;
+  cursor: pointer;
 }
 
 .button:is(:hover, :focus) {
